@@ -1,3 +1,3 @@
 public class HelloWorld {
 }
-  public staic 
+  public static 
