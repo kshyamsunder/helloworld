@@ -1,3 +1,5 @@
 public class HelloWorld {
 }
-  public static 
+  public static  {
+
+}
